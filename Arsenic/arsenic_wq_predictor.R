@@ -1,7 +1,7 @@
 ---
 # title: "Predictors of arsenic content in California's groundwater"
-# Description: "Perform statistical analysis on Arsenic data for Dr. Lu CGN 6311 Intro to Data Science Project."
-# author: "Natchaya Luangphairin, Shelby Rocha, Mark Vicciardo"
+# Description: "Perform statistical analysis on Arsenic data."
+# author: "Natchaya Luangphairin"
 # date last revised: "2/27/2023"
 # output: R Script
 ---
@@ -28,8 +28,6 @@
       }
     )
 
-
-    https://github.com/DanielMartinAlarcon/arsenic-in-durango/blob/master/Arsenic1_simple_models.ipynb
 
 ##Predictors of arsenic content in goundwater
 	#The State of California, in the United States, is one of those affected with significant natural presence of arsenic in groundwater 
